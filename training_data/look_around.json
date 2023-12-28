@@ -1,0 +1,11 @@
+[
+  ["examine the surroundings", "look_around"],
+  ["scan the area", "look_around"],
+  ["what can I see here?", "look_around"],
+  ["is there anyone here?", "look_around"],
+  ["look around the room", "look_around"],
+  ["look", "look_around"],
+  ["is there anything interesting in the room?", "look_around"],
+  ["does anything look odd?", "look_around"],
+  ["what is in the room?", "look_around"]
+]

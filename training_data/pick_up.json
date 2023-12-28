@@ -1,0 +1,17 @@
+[
+  ["pick up the object", "pick_up"],
+  ["pick up the globe", "pick_up"],
+  ["pick up the book", "pick_up"],
+  ["pick up the chain", "pick_up"],
+  ["pick up the rope", "pick_up"],
+  ["pick up the item", "pick_up"],
+  ["pick up the key", "pick_up"],
+  ["pick up the food", "pick_up"],
+  ["pick up the wheat", "pick_up"],
+  ["pick up the sandwich", "pick_up"],
+  ["pick up the gun", "pick_up"],
+  ["collect the key", "pick_up"],
+  ["collect the rope", "pick_up"],
+  ["collect the item", "pick_up"],
+  ["collect the food", "pick_up"]
+]

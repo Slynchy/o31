@@ -1,0 +1,17 @@
+[
+  ["what is inside the drawer?", "look_in_detail"],
+  ["look inside the wardrobe", "look_in_detail"],
+  ["look under the bed", "look_in_detail"],
+  ["inspect the object", "look_in_detail"],
+  ["does anything look odd about the book?", "look_in_detail"],
+  ["i open the book", "look_in_detail"],
+  ["i read the book", "look_in_detail"],
+  ["search the desk", "look_in_detail"],
+  ["examine the painting", "look_in_detail"],
+  ["investigate the noise", "look_in_detail"],
+  ["check the fireplace", "look_in_detail"],
+  ["explore the cupboard", "look_in_detail"],
+  ["peer through the window", "look_in_detail"],
+  ["browse the bookshelf", "look_in_detail"],
+  ["study the mirror", "look_in_detail"]
+]

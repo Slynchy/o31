@@ -1,0 +1,10 @@
+[
+  ["flee to the previous location", "move_back"],
+  ["retreat to the entrance", "move_back"],
+  ["step back", "move_back"],
+  ["go outside", "move_back"],
+  ["run away", "move_back"],
+  ["go back", "move_back"],
+  ["return to the last room", "move_back"],
+  ["return", "move_back"]
+]
